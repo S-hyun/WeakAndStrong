@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Lottodraw.xcodeproj">
+      location = "self:memoapp.xcodeproj">
    </FileRef>
 </Workspace>
